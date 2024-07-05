@@ -30,24 +30,13 @@ Real-Time Tracker is a web application designed for real-time tracking of variou
    npm install
    ```
 
-3. **Set up environment variables:**
-
-   Create a `.env` file in the root directory and add:
-
-   ```env
-   NODE_ENV=development
-   PORT=5000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   ```
-
-4. **Run the application:**
+3. **Run the application:**
 
    ```bash
    npm start
    ```
 
-   The app will run on `http://localhost:5000`.
+   The app will run on `http://localhost:3000`.
 
 ## Contributing
 
