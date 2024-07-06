@@ -36,6 +36,12 @@ Real-Time Tracker is a web application designed for real-time tracking of variou
    npm start
    ```
 
+4. **Screenshot:**
+
+   
+   ![Screenshot 2024-07-06 174754](https://github.com/bitof-KARTIK/Real-Time-Tracker/assets/157111737/6a112a5b-4bec-4720-b789-d23baad35068)
+
+
    The app will run on `http://localhost:3000`.
 
 ## Contributing
